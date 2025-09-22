@@ -980,6 +980,9 @@ font-size: 1rem;
     align-items: center;
     text-align: center;
 }
+.box-grid{
+    padding:0 15px;
+}
 }
 
 @media screen and (max-width: 323px) {
